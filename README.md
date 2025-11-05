@@ -1,6 +1,9 @@
 # ChildSpeech
 ### 한국어 아동 음성 데이터를 활용하여 데이터 증강 후 Whisper-small 모델 성능 개선
 
+<img width="949" height="270" alt="research_pipeline(urop)" src="https://github.com/user-attachments/assets/ee2481cb-6b36-44a1-b51a-252c023a7c9e" />
+(pipeline은 위와 유사함. Timestretch 구간에서 여러 방법 적용하여 실험 진행)
+
 <방법>
 - speed
 - pitch
